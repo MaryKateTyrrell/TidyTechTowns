@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TidyTechTowns</string>
+    <string name="welcome">Welcome to Tidy Tech Towns</string>
+    <string name="codeError">That code is incorrect, please try again. If you need to contact someone about your community code, please click here</string>
+    <string name="Signup">SignUp</string>
+    <string name="signUpHeading">Register a Community</string>
+    <string name="join">Join a Community</string>
+    <string name="joinCom">To join a community, please enter the unique code</string>
+    <string name="enterApp">Use independent of a Community</string>
+    <string name="enter">Enter</string>
+    <string name="JJjoin"> Join</string>
+
+</resources>
